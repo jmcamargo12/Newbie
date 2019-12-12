@@ -1,2 +1,4 @@
 # Newbie
-Growth 
+
+Growth
+Im going trough Changes
